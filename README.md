@@ -1,100 +1,100 @@
 # dv-portfolio
 
-# Sveiki! 👋 Es esmu Dina – jaunā QA testētāja
+# Hello! 👋 I'm Dina – a Junior QA Tester
 
-Man ir spēcīgas zināšanas programmatūras testēšanas pamatos, dokumentācijā, defektu pārvaldībā un testēšanas procesos. Aktīvi mācos praktisko testēšanu, rīkus un gatavojos QA karjerai.
-
----
-
-## 🧩 Testēšanas pamatzināšanas
-- Testēšanas nepieciešamība un mērķi  
-- Programmatūras kvalitātes izpratne  
-- Testēšanas aktivitātes un procesi  
-- Testēšanas termini: defekts, incidents, testa gadījums  
-- Kvalitātes atribūti: funkcionalitāte, veiktspēja, saderība, lietojamība, uzticamība, drošība, uzturamība  
-- Funkcionālās un nefunkcionālās prasības  
-- Prasību testēšana un pārvaldība  
-- Testu veidi un līmeņi  
-- Uz risku balstīta testēšana  
-- Statiskā un dinamiskā testēšana  
+I have strong knowledge of software testing fundamentals, documentation, defect management, and testing processes. I am actively learning practical testing skills, tools, and preparing for a career in QA.
 
 ---
 
-## 🛠 Rīki un tehnoloģijas
-**Ikdienā lietoju:**
-- Teksta redaktori (Notepad++, VS Code)  
-- Ekrāna fragmentu saglabātāji  
-- Ekrāna ierakstīšanas rīki  
-- Failu/teksta salīdzināšanas rīki  
-- MI rīki ikdienas atbalstam  
-- Tiešsaistes tāfeles (Miro u.c.)  
+## 🧩 Testing Fundamentals
+- The need and purpose of testing  
+- Understanding software quality  
+- Testing activities and processes  
+- Testing terminology: defect, incident, test case  
+- Quality attributes: functionality, performance, compatibility, usability, reliability, security, maintainability  
+- Functional and non-functional requirements  
+- Requirement testing and management  
+- Test types and levels  
+- Risk-based testing  
+- Static and dynamic testing  
 
-**Testu pārvaldības rīki:**
+---
+
+## 🛠 Tools and Technologies
+**Daily tools I use:**  
+- Text editors (Notepad++, VS Code)  
+- Screen capture tools  
+- Screen recording tools  
+- File/text comparison tools  
+- AI tools for daily support  
+- Online whiteboards (Miro, etc.)  
+
+**Test management tools:**  
 - Jira  
-- Zephyr (testu pārvaldība, testu scenāriji, izpildes)  
-- Defektu reģistrēšana Jira  
+- Zephyr (test management, test cases, execution)  
+- Defect logging in Jira  
 
 ---
 
-## 🐞 Defekti un to dzīves cikls
-- Kļūdu veidi un defektu izmaksas  
-- Defektu dzīves cikls un statuss Jira  
-- Kvalitatīvu defekta pieteikumu rakstīšana  
-- Incidentu pārvaldība  
+## 🐞 Defects and Their Life Cycle
+- Types of bugs and defect costs  
+- Defect life cycle and statuses in Jira  
+- Writing high-quality defect reports  
+- Incident management  
 
 ---
 
-## 📌 Programmatūras izstrādes dzīves cikls
-- Izpratne par SDLC  
-- Testēšanas aktivitātes izstrādes ciklā  
-- Metodoloģijas: Waterfall, Agile, Scrum, Kanban  
-- Resursu plānošana  
-- Epic / User Story izveidošana Jira  
+## 📌 Software Development Life Cycle (SDLC)
+- Understanding SDLC  
+- Testing activities in the development cycle  
+- Methodologies: Waterfall, Agile, Scrum, Kanban  
+- Resource planning  
+- Creating Epics / User Stories in Jira  
 
 ---
 
-## 🔍 Testu projektēšanas tehnikas
-- Melnās kastes testēšanas tehnikas  
-- Baltās kastes pamati  
-- Uz pieredzi balstīta testēšana  
-- Testa gadījumi, testu pārklājumi, lietotāju stāsti, lietošanas piemēri  
+## 🔍 Test Design Techniques
+- Black-box testing techniques  
+- Basics of white-box testing  
+- Experience-based testing  
+- Test cases, test coverage, user stories, usage scenarios  
 
 ---
 
-## 🗄 Datu bāzes un SQL
-- Datu bāzes pamatjēdzieni  
-- Pamata SQL komandas un vaicājumi  
+## 🗄 Databases and SQL
+- Database fundamentals  
+- Basic SQL commands and queries  
 
 ---
 
-## 📱 Mobilā lietotņu testēšana
-- Testēšanas process un veidi  
-- Biežākie riski un izaicinājumi  
-- Emulatoru izmantošana  
+## 📱 Mobile Application Testing
+- Testing process and types  
+- Common risks and challenges  
+- Using emulators  
 
 ---
 
-## 🌐 Servera puses testēšana
-- Tīmekļa lietojumprogrammu slāņi  
-- API testēšana (Postman)  
-- Darbs ar datubāzi  
+## 🌐 Server-Side Testing
+- Web application layers  
+- API testing (Postman)  
+- Working with databases  
 
 ---
 
-## 🤖 Testu automatizācija
-- Automatizācijas iespējas un pieejas  
-- Automatizācijas rīku izvēle  
-- ✔️ **Zinu: Selenium IDE**  
-  *(mācos pāriet uz Selenium WebDriver / Playwright nākotnē)*  
+## 🤖 Test Automation
+- Automation opportunities and approaches  
+- Choosing automation tools  
+- ✔️ **Known: Selenium IDE**  
+  *(learning to move to Selenium WebDriver / Playwright in the future)*  
 
 ---
 
-## 📚 Pašlaik mācos un attīstu:
-- Darbu ar API (Postman)  
-- Testu dokumentācijas veidošanu  
-- Selenium IDE padziļināti  
+## 📚 Currently Learning and Improving:
+- Working with APIs (Postman)  
+- Creating test documentation  
+- Advanced Selenium IDE  
 
 ---
 
-## 📬 Sazinies ar mani
-Ja vēlies, vari sazināties ar mani vai apskatīt manus projektus GitHub!
+## 📬 Contact Me
+Feel free to reach out or check out my projects on GitHub!
