@@ -5,7 +5,9 @@
 I have strong knowledge of software testing fundamentals, documentation, defect management, and testing processes. I am actively learning practical testing skills, tools, and preparing for a career in QA.
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/dina-vīgante-18ba7332)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dina-vīgante-18ba7332)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dina-vīgante/)
+
 ---
 
 ## 🧩 Testing Fundamentals
