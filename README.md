@@ -6,7 +6,6 @@ I have strong knowledge of software testing fundamentals, documentation, defect 
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dina-vīgante-18ba7332)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dina-vīgante/)
 
 ---
 
