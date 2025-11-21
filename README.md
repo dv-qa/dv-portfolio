@@ -1,6 +1,6 @@
 # dv-portfolio
 
-# Hello! 👋 I'm Dina – a Junior QA Tester
+# Hello! 👋 I'm Dina – a Junior QA Tester | Connect with me on LinkedIn: www.linkedin.com/in/dina-vīgante-18ba7332
 
 I have strong knowledge of software testing fundamentals, documentation, defect management, and testing processes. I am actively learning practical testing skills, tools, and preparing for a career in QA.
 
