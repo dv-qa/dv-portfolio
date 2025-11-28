@@ -15,7 +15,7 @@ Phone: +371 22222222
 
 ---
 
-## 🧰 Skills
+## Skills
 - API Testing (Postman)  
 - SQL (JOIN, GROUP BY, HAVING, subqueries)  
 - Mobile App Testing (iOS & Android)  
@@ -25,13 +25,13 @@ Phone: +371 22222222
 
 ---
 
-## 📚 Courses
+## Courses
 - Test Automation with Cypress (Udemy)  
 - SQL and Databases (Udemy)  
 
 ---
 
-## 🧪 QA Projects on GitHub
+## QA Projects on GitHub
 - **API Testing Portfolio** — Postman collections and documentation  
 - **SQL Queries Practice** — 30+ SQL tasks with solutions  
 - **Test Cases Collection** — Realistic test cases + bug reports  
@@ -39,7 +39,7 @@ Phone: +371 22222222
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 ### Freelance QA Tester – uTest / BugFinders (2025–present)
 - UI testing  
 - Regression testing  
